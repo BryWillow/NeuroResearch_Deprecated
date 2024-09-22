@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NeuroConsole/1.0.0": {
+        "dependencies": {
+          "NeuroDomain": "1.0.0"
+        },
+        "runtime": {
+          "NeuroConsole.dll": {}
+        }
+      },
+      "NeuroDomain/1.0.0": {
+        "runtime": {
+          "NeuroDomain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeuroConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NeuroDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
