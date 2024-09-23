@@ -6,18 +6,34 @@ public enum MembraneLocation
     ExtraCullular
 }
 
+/// <summary>
+/// Ions can only have a positive or negative charge.
+/// They cannot be neutral.
+/// </summary>
+/// 
+/// <remarks>
+/// Ions with a negative charge are called Anions.
+/// Ions with a positive charge are called Cations.
+/// </remarks>
 public enum IonCharge
 {
-    Negative,
-    Positive
+    Negative, // Anions
+    Positive  // Cations
 }
 
 /// <summary>
-/// There are many types of Ions, but
-/// we are only concerned with these types
+/// "Common" Ion types that exist within the brain.
 /// </summary>
+/// 
+/// <remarks>
+/// Other types of Ions do exist throught the body.
+/// TODO: Read up on the Common Ion Effect.
+/// https://en.wikipedia.org/wiki/Common-ion_effect
+/// </remarks>
 public enum IonType
 {
+    Calcium,
+    Chloride,
     Potassium,
     Sodium
 }
@@ -27,8 +43,9 @@ public enum IonType
 /// <param name="ionCharge"></param>
 /// <param name="neuronIonType"></param>
 /// <param name="membraneLocation"></param>
+/// 
 /// <remarks>
-/// An Ion is a particle or molecule, that has a positive or negative electrical charge.
+/// An Ion is an Atom or group of Atoms with a positive or negative electrical charge.
 /// Many, many Ions surround neurons, both inside and outside the cell membrane.
 /// </remarks>
 public class Ion(IonCharge ionCharge, IonType ionType, MembraneLocation membraneLocation)
