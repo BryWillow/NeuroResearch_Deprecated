@@ -4,6 +4,9 @@
     <ProjectReference Include="..\NeuroDomain\NeuroDomain.csproj" />
     <ProjectReference Include="..\NeuroDomain.Ion\NeuroDomain.Ion.csproj" />
     <ProjectReference Include="..\NeuroDomain.Potential.Factory\NeuroDomain.Potential.Factory.csproj" />
+    <ProjectReference Include="..\NeuroDomain.ActionPotential\NeuroDomain.ActionPotential.csproj" />
+    <ProjectReference Include="..\NeuroDomain.Neuron\NeuroDomain.Neuron.csproj" />
+    <ProjectReference Include="..\InputProcessor\InputProcessor.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

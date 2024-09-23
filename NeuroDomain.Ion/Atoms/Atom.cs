@@ -1,3 +1,5 @@
+namespace NeuroDomain;
+
 /// <summary>
 /// This abstraction represents a particle with a neutral charge.
 /// If it becomes charged, then the resulting Ion is provided.
@@ -12,8 +14,9 @@
 /// TODO: Understand how Atoms can have a charge (neutrons?) without being an ion.
 /// I think this is possible.
 /// </remarks>
-public class Atom(int electronCount, int neutronCount, int protonCount)
+public class Atom(IonType ionType, int electronCount, int neutronCount, int protonCount)
 {
+    public IonType IonType { get; set; }
     public int ElectonCount { get; set; } = electronCount;
     public int NeutronCount { get; set; } = neutronCount;
     public int ProtonCount { get; set; } = protonCount;

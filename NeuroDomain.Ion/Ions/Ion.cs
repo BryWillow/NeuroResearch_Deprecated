@@ -23,6 +23,7 @@ public enum IonCharge
 
 /// <summary>
 /// "Common" Ion types that exist within the brain.
+/// Atoms Per the MS Standard CA1008
 /// </summary>
 /// 
 /// <remarks>
@@ -32,6 +33,7 @@ public enum IonCharge
 /// </remarks>
 public enum IonType
 {
+    None,
     Calcium,
     Chloride,
     Potassium,

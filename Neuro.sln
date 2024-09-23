@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputProcessor", "InputProc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroDomain.Tests", "NeuroDomain.Tests\NeuroDomain.Tests.csproj", "{850F8524-D2BC-4A68-8694-8D596350C58E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroDomain.Neuron", "NeuroDomain.Neuron\NeuroDomain.Neuron.csproj", "{9AA0E91D-84D3-43F2-84F6-A6307E143998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroDomain.Ion", "NeuroDomain.Ion\NeuroDomain.Ion.csproj", "{BFB57688-96FE-486E-8E93-3B32ED9B0D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuroDomain.ActionPotential", "NeuroDomain.ActionPotential\NeuroDomain.ActionPotential.csproj", "{BB2019C0-26EB-4139-8369-FE178CB0A318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +42,17 @@ Global
 		{850F8524-D2BC-4A68-8694-8D596350C58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{850F8524-D2BC-4A68-8694-8D596350C58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{850F8524-D2BC-4A68-8694-8D596350C58E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA0E91D-84D3-43F2-84F6-A6307E143998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA0E91D-84D3-43F2-84F6-A6307E143998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA0E91D-84D3-43F2-84F6-A6307E143998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA0E91D-84D3-43F2-84F6-A6307E143998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB57688-96FE-486E-8E93-3B32ED9B0D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB57688-96FE-486E-8E93-3B32ED9B0D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB57688-96FE-486E-8E93-3B32ED9B0D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB57688-96FE-486E-8E93-3B32ED9B0D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2019C0-26EB-4139-8369-FE178CB0A318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2019C0-26EB-4139-8369-FE178CB0A318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2019C0-26EB-4139-8369-FE178CB0A318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2019C0-26EB-4139-8369-FE178CB0A318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
