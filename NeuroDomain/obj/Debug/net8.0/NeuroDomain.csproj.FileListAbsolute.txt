@@ -9,3 +9,15 @@
 /Users/bryancamp/Dropbox/Mac/Documents/Code/Research/NeuroDomain/obj/Debug/net8.0/refint/NeuroDomain.dll
 /Users/bryancamp/Dropbox/Mac/Documents/Code/Research/NeuroDomain/obj/Debug/net8.0/NeuroDomain.pdb
 /Users/bryancamp/Dropbox/Mac/Documents/Code/Research/NeuroDomain/obj/Debug/net8.0/ref/NeuroDomain.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.AssemblyInfoInputs.cache
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.AssemblyInfo.cs
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.csproj.CoreCompileInputs.cache
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.sourcelink.json
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/refint/NeuroDomain.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/NeuroDomain.pdb
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/bin/Debug/net8.0/NeuroDomain.deps.json
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/bin/Debug/net8.0/NeuroDomain.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/bin/Debug/net8.0/NeuroDomain.pdb
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/obj/Debug/net8.0/ref/NeuroDomain.dll

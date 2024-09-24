@@ -1,4 +1,7 @@
-﻿// Below is a very simplified, categorization of the ~100 billion neurons in a mature, human brain.
+﻿using System.Diagnostics;
+using NeuroDomain;
+
+// Below is a very simplified, categorization of the ~100 billion neurons in a mature, human brain.
 //
 // 1. Sensory Neurons : Carry information TO our brain re: our 5 senses. E,g,, burns, smells, tastes.
 //
@@ -25,12 +28,10 @@
 // (5) Measure how much GABA is released under what conditions.
 // (6) Compare with people who have pre-existing illnesses.
 
-int main()
+public class Program
 {
-    return 0;
-}
-
-void CreateRandomNeurons()
-{
-
+    public static void Main()
+    {
+        Console.WriteLine("Hello World!!");
+    }
 }

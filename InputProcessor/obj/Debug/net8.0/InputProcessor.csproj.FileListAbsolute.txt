@@ -1,0 +1,12 @@
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/bin/Debug/net8.0/InputProcessor.deps.json
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/bin/Debug/net8.0/InputProcessor.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/bin/Debug/net8.0/InputProcessor.pdb
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.AssemblyInfoInputs.cache
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.AssemblyInfo.cs
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.csproj.CoreCompileInputs.cache
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.sourcelink.json
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/refint/InputProcessor.dll
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/InputProcessor.pdb
+/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/obj/Debug/net8.0/ref/InputProcessor.dll

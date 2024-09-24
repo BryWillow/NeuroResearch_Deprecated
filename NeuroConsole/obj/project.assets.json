@@ -2,16 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "InputProcessor/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/InputProcessor.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/InputProcessor.dll": {}
-        }
-      },
       "NeuroDomain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -21,95 +11,19 @@
         "runtime": {
           "bin/placeholder/NeuroDomain.dll": {}
         }
-      },
-      "NeuroDomain.ActionPotential/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/NeuroDomain.ActionPotential.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NeuroDomain.ActionPotential.dll": {}
-        }
-      },
-      "NeuroDomain.Ion/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "NeuroDomain": "1.0.0",
-          "NeuroDomain.ActionPotential": "1.0.0",
-          "NeuroDomain.Neuron": "1.0.0",
-          "NeuroDomain.Potential.Factory": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/NeuroDomain.Ion.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NeuroDomain.Ion.dll": {}
-        }
-      },
-      "NeuroDomain.Neuron/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/NeuroDomain.Neuron.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NeuroDomain.Neuron.dll": {}
-        }
-      },
-      "NeuroDomain.Potential.Factory/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/NeuroDomain.Potential.Factory.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NeuroDomain.Potential.Factory.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "InputProcessor/1.0.0": {
-      "type": "project",
-      "path": "../InputProcessor/InputProcessor.csproj",
-      "msbuildProject": "../InputProcessor/InputProcessor.csproj"
-    },
     "NeuroDomain/1.0.0": {
       "type": "project",
       "path": "../NeuroDomain/NeuroDomain.csproj",
       "msbuildProject": "../NeuroDomain/NeuroDomain.csproj"
-    },
-    "NeuroDomain.ActionPotential/1.0.0": {
-      "type": "project",
-      "path": "../NeuroDomain.ActionPotential/NeuroDomain.ActionPotential.csproj",
-      "msbuildProject": "../NeuroDomain.ActionPotential/NeuroDomain.ActionPotential.csproj"
-    },
-    "NeuroDomain.Ion/1.0.0": {
-      "type": "project",
-      "path": "../NeuroDomain.Ion/NeuroDomain.Ion.csproj",
-      "msbuildProject": "../NeuroDomain.Ion/NeuroDomain.Ion.csproj"
-    },
-    "NeuroDomain.Neuron/1.0.0": {
-      "type": "project",
-      "path": "../NeuroDomain.Neuron/NeuroDomain.Neuron.csproj",
-      "msbuildProject": "../NeuroDomain.Neuron/NeuroDomain.Neuron.csproj"
-    },
-    "NeuroDomain.Potential.Factory/1.0.0": {
-      "type": "project",
-      "path": "../NeuroDomain.Potential.Factory/NeuroDomain.Potential.Factory.csproj",
-      "msbuildProject": "../NeuroDomain.Potential.Factory/NeuroDomain.Potential.Factory.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "InputProcessor >= 1.0.0",
-      "NeuroDomain >= 1.0.0",
-      "NeuroDomain.ActionPotential >= 1.0.0",
-      "NeuroDomain.Ion >= 1.0.0",
-      "NeuroDomain.Neuron >= 1.0.0",
-      "NeuroDomain.Potential.Factory >= 1.0.0"
+      "NeuroDomain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -137,21 +51,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/InputProcessor.csproj": {
-              "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/InputProcessor/InputProcessor.csproj"
-            },
-            "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.ActionPotential/NeuroDomain.ActionPotential.csproj": {
-              "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.ActionPotential/NeuroDomain.ActionPotential.csproj"
-            },
-            "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Ion/NeuroDomain.Ion.csproj": {
-              "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Ion/NeuroDomain.Ion.csproj"
-            },
-            "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Neuron/NeuroDomain.Neuron.csproj": {
-              "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Neuron/NeuroDomain.Neuron.csproj"
-            },
-            "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Potential.Factory/NeuroDomain.Potential.Factory.csproj": {
-              "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain.Potential.Factory/NeuroDomain.Potential.Factory.csproj"
-            },
             "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/NeuroDomain.csproj": {
               "projectPath": "/Users/bryancamp/Dropbox/Mac/Documents/Code/NeuroResearch/NeuroDomain/NeuroDomain.csproj"
             }

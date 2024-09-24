@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeuroDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a8ec5bd70524672af2da183321705853f7b65c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeuroDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeuroDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

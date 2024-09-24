@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeuroConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3295c89b8edc2a2fecf84e5e116ad2837eb65b22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a8ec5bd70524672af2da183321705853f7b65c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeuroConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeuroConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
